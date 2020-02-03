@@ -1,6 +1,6 @@
-# crestron-client
+# crestronclient
 
-crestron-client is a Python library for connecting to crestron processors and simulating XPanel requests.
+crestronclient is a Python library for connecting to crestron processors and simulating XPanel requests.
 This lib is based on [stealthflyers work](https://github.com/stealthflyer/CrestronXPanelApp) who did the entire CIP stuff
 
 ## Usage
